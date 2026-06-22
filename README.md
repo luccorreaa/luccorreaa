@@ -1,22 +1,18 @@
 <div align="center">
 
-<br/>
-<br/>
+## Luciano Correa
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1800&color=00FF41&center=true&vCenter=true&width=620&lines=Luciano+Correa)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=2800&pause=1200&color=888888&center=true&vCenter=true&width=620&lines=Data+Scientist+%C2%B7+Data+Engineer;Rust+Enthusiast;Buenos+Aires%2C+AR)](https://git.io/typing-svg)
+**Data Scientist · Data Engineer · Rust Enthusiast**
 
 <br/>
 
-[![skills](https://skillicons.dev/icons?i=rust,go,python,react,ts,svelte,docker,linux)](https://skillicons.dev)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 <br/>
 
 [💼 LinkedIn](https://www.linkedin.com/in/luccorreaa-dev/) &nbsp;·&nbsp; [📧 Email](mailto:lucianocorrea1112@gmail.com) &nbsp;·&nbsp; [🌐 Portfolio](https://luccorreaa.dev)
-
-<br/>
-<br/>
 
 </div>
 
@@ -29,9 +25,3 @@
 - Studying **Information Systems Engineering** @ UTN FRBA, Buenos Aires
 - I take problems end-to-end — from architecture to production
 - Open to collaborations and interesting engineering challenges
-
----
-
-<div align="center">
-<sub>Buenos Aires, AR · 2026</sub>
-</div>
