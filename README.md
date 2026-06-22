@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=130&section=header&text=Luciano%20Correa&fontColor=ffffff&fontSize=38&animation=fadeIn&fontAlignY=42&desc=Full%20Stack%20Developer%20%7C%20Buenos%20Aires%2C%20AR&descSize=14&descAlignY=62&descColor=aaaaaa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=130&section=header&text=Luciano%20Correa&fontColor=ffffff&fontSize=38&animation=fadeIn&fontAlignY=42&desc=Data%20Scientist%20%C2%B7%20Data%20Engineer%20%C2%B7%20Rust%20Enthusiast%20%7C%20Buenos%20Aires%2C%20AR&descSize=14&descAlignY=62&descColor=aaaaaa" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1200&color=00FF41&center=true&vCenter=true&width=480&lines=Data+Scientist;Data+Engineer;Rust+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1200&color=00FF41&center=true&vCenter=true&width=480&lines=Rust+%7C+Go+%7C+Python;Distributed+systems+%26+P2P+networks;Building+from+the+ground+up)](https://git.io/typing-svg)
 
 </div>
 
