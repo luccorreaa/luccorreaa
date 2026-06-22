@@ -1,26 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=130&section=header&text=Luciano%20Correa&fontColor=ffffff&fontSize=38&animation=fadeIn&fontAlignY=42&desc=Data%20Scientist%20%C2%B7%20Data%20Engineer%20%C2%B7%20Rust%20Enthusiast%20%7C%20Buenos%20Aires%2C%20AR&descSize=14&descAlignY=62&descColor=aaaaaa" width="100%"/>
+<br/>
 
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1200&color=00FF41&center=true&vCenter=true&width=480&lines=Rust+%7C+Go+%7C+Python;Distributed+systems+%26+P2P+networks;Building+from+the+ground+up)](https://git.io/typing-svg)
-
-</div>
+### `> lc_`
 
 <br/>
 
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2200&pause=900&color=00FF41&center=true&vCenter=true&width=520&lines=Initializing+secure+shell...;Loading+neural+interface...;Access+granted.;%3E+Data+Scientist+%C2%B7+Data+Engineer;%3E+Rust+Enthusiast+%7C+Buenos+Aires%2C+AR)](https://git.io/typing-svg)
+
+<br/>
 
 [![skills](https://skillicons.dev/icons?i=rust,go,python,react,ts,svelte,docker,linux)](https://skillicons.dev)
 
-</div>
-
 <br/>
-
-<div align="center">
 
 [💼 LinkedIn](https://www.linkedin.com/in/luccorreaa-dev/) &nbsp;·&nbsp; [📧 Email](mailto:lucianocorrea1112@gmail.com) &nbsp;·&nbsp; [🌐 Portfolio](https://luccorreaa.dev)
 
@@ -28,18 +20,28 @@
 
 ---
 
-### 🧬 About
+```
+root@luccorreaa:~$ cat identify.sh
 
-- Studying **Information Systems Engineering** @ UTN FRBA, Buenos Aires
-- Building **[mini-blockchain](https://github.com/luccorreaa/mini-blockchain)** — a fully functional P2P blockchain node in Rust, from scratch
+  name     : Luciano Correa
+  roles    : Data Scientist · Data Engineer
+  passion  : Rust Enthusiast
+  location : Buenos Aires, AR
+  status   : [ AVAILABLE ]
+```
+
+---
+
+**// about**
+
+- Building **[mini-blockchain](https://github.com/luccorreaa/mini-blockchain)** — P2P blockchain node in Rust, from scratch
 - Interested in distributed systems, peer-to-peer networks, and low-level programming
-- I like taking problems end-to-end — from architecture to production
+- Studying **Information Systems Engineering** @ UTN FRBA
+- I take problems end-to-end — from architecture to production
 - Open to collaborations and interesting engineering challenges
 
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=80&section=footer" width="100%"/>
-
+<sub><code>// luccorreaa · 2026</code></sub>
 </div>
